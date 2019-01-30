@@ -3,3 +3,5 @@ node_js:
 	- "iojs"
 	- "lts/*"
 	- "10"
+script:
+    - functions.test.js
