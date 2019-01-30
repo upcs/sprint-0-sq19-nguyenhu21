@@ -1,0 +1,1 @@
+document.getElementById("adding").innerHTML = add(3, 5);
