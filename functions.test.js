@@ -5,5 +5,5 @@ test('add 3 + 3 to equal 6', () => {
 });
 
 test('add 4 + 6 to equal 10', () => {
-	expect(add(4, 6)).toBe(10);
+	expect(add(4, 6)).toBe(9);
 });
