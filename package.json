@@ -8,8 +8,7 @@
   },
   "devDependencies": {},
   "scripts": {
-    "test": "jest",
-    "start": "node ./js/server.js"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
