@@ -1,0 +1,23 @@
+{
+  "name": "huy",
+  "version": "1.0.0",
+  "description": "Sprint 0",
+  "main": "server.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/upcs/sprint-0-sq19-nguyenhu21.git"
+  },
+  "keywords": [
+    "sprint",
+    "0"
+  ],
+  "author": "Huy Nguyen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/upcs/sprint-0-sq19-nguyenhu21/issues"
+  },
+  "homepage": "https://github.com/upcs/sprint-0-sq19-nguyenhu21#readme"
+}

@@ -1,1 +1,1 @@
-document.getElementById("adding").innerHTML = add(3, 5);
+document.getElementById("add").innerHTML = add(3, 5);
