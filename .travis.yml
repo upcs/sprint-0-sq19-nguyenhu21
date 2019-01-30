@@ -4,4 +4,4 @@ node_js:
 	- "lts/*"
 	- "10"
 script:
-    - functions.test.js
+    - npm run test
