@@ -1,8 +1,12 @@
 {
-  "name": "huy",
+  "name": "sprint-0-sq19-nguyenhu21",
   "version": "1.0.0",
-  "description": "Sprint 0",
+  "description": "sprint 0",
   "main": "server.js",
+  "dependencies": {
+    "jest": "^24.0.0"
+  },
+  "devDependencies": {},
   "scripts": {
     "test": "jest"
 	"start": "node ./js/server.js"
@@ -20,8 +24,5 @@
   "bugs": {
     "url": "https://github.com/upcs/sprint-0-sq19-nguyenhu21/issues"
   },
-  "homepage": "https://github.com/upcs/sprint-0-sq19-nguyenhu21#readme",
-  "devDependencies": {
-    "jest": "^24.0.0"
-  }
+  "homepage": "https://github.com/upcs/sprint-0-sq19-nguyenhu21#readme"
 }
